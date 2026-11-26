@@ -1,0 +1,25 @@
+[
+  {
+    "record_id": "20261125213248149433",
+    "name": "archana",
+    "score": 8,
+    "total": 8,
+    "percentage": 100,
+    "passed": true,
+    "date": "2026-11-25 21:32:48 India Standard Time",
+    "category_scores": {
+      "Password Safety": {
+        "score": 3,
+        "total": 3
+      },
+      "Phishing": {
+        "score": 2,
+        "total": 2
+      },
+      "Online Safety": {
+        "score": 3,
+        "total": 3
+      }
+    }
+  }
+]
